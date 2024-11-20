@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+#app { width: 400px; margin: auto; }
+form { margin-bottom: 20px; }
+input, button { display: block; width: 100%; margin: 5px 0; }
+#tasks { border-top: 1px solid #ccc; padding-top: 10px; }
